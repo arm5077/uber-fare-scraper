@@ -1,0 +1,25 @@
+{
+  "name": "uber-fare-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arm5077/uber-fare-scraper.git"
+  },
+  "author": "Andrew McGill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arm5077/uber-fare-scraper/issues"
+  },
+  "homepage": "https://github.com/arm5077/uber-fare-scraper",
+  "dependencies": {
+    "express": "^4.12.4",
+    "htmlparser": "^1.7.7",
+    "request": "^2.57.0",
+    "soupselect": "^0.2.0"
+  }
+}
